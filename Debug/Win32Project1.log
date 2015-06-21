@@ -1,0 +1,20 @@
+﻿已經開始建置於 2015/4/15 上午 01:32:04。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\momo\documents\visual studio 2013\Projects\Win32Project1\Win32Project1\Win32Project1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\momo\documents\visual studio 2013\projects\win32project1\win32project1\main.cpp(235): warning C4305: '*=' : 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+     1>c:\users\momo\documents\visual studio 2013\projects\win32project1\win32project1\main.cpp(236): warning C4305: '*=' : 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+     1>c:\users\momo\documents\visual studio 2013\projects\win32project1\win32project1\main.cpp(239): warning C4305: '*=' : 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+     1>c:\users\momo\documents\visual studio 2013\projects\win32project1\win32project1\main.cpp(240): warning C4305: '*=' : 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+     1>c:\users\momo\documents\visual studio 2013\projects\win32project1\win32project1\main.cpp(243): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\momo\documents\visual studio 2013\Projects\Win32Project1\Debug\Win32Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\momo\documents\visual studio 2013\Projects\Win32Project1\Debug\Win32Project1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\momo\documents\visual studio 2013\Projects\Win32Project1\Debug\Win32Project1.lib" /MACHINE:X86 Debug\main.obj
+         Debug\playback.obj
+         Debug\video.obj
+         Win32Project1.vcxproj -> c:\users\momo\documents\visual studio 2013\Projects\Win32Project1\Debug\Win32Project1.exe
+     1>專案 "c:\Users\momo\documents\visual studio 2013\Projects\Win32Project1\Win32Project1\Win32Project1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.70
